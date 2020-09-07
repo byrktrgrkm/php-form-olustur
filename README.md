@@ -1,0 +1,1 @@
+# Class ile hýzlý form oluþturma
